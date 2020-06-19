@@ -1,0 +1,11 @@
+#canvas {
+    top:0;
+    left:0;
+    width: 0;
+    
+}
+.check {
+    width: 300;
+    padding-top: 150px;
+    float: left;
+}
